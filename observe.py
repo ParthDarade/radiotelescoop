@@ -10,7 +10,7 @@ from email.mime.base import MIMEBase
 from email import encoders
 from shutil import copy2
 from time import sleep
-pathtopictor = "/home/pi/Desktop/pictortelescope/"
+pathtopictor = "/home/pi/Desktop/Radio_Telescope/"
 while True:
     while True:
         #Get observation parameters
